@@ -1,0 +1,22 @@
+[
+{
+    "model": "MainApp.snippet",
+    "pk": 1,
+    "fields": {
+        "name": "Hello world Snippet",
+        "lang": "py",
+        "code": "print(\"Hello world\")",
+        "creation_date": "2024-10-14T17:36:14.381Z"
+    }
+},
+{
+    "model": "MainApp.snippet",
+    "pk": 2,
+    "fields": {
+        "name": "Second snippet",
+        "lang": "py",
+        "code": "print(\"Hello, Students!\")",
+        "creation_date": "2024-10-14T17:57:01.612Z"
+    }
+}
+]
